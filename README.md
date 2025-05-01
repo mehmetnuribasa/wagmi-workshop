@@ -1,0 +1,3 @@
+# Wagmi Workshop
+
+Bu proje Wagmi Workshop esnasında yazılmıştır. Katkıda bulunmak için projeyi yıldızlayabilirsiniz 😊
